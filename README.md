@@ -1,5 +1,3 @@
-# Sending_Message_using_GSM
-
-Arduino Code for Sending a Message to a particular Mobile Phone using GSM-Module....
-Developed By Team VYAKTA,
-Start-Up and Innovation Cell, Acharya Nagarjuna University  .
+Arduino C++ implementation for Sending the Water Level in the Water-Tank, through the Ultra Sonic Sensor.
+As a SMS to Mobile as well as Data to API (Thingspeak) through GPS/GPRS SIM 900A.
+No Wifi Connectivity used to send data to API.

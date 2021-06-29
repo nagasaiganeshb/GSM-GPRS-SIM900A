@@ -1,6 +1,5 @@
 /* Arduino Code for Sending a Message to a particular Mobile Phone using GSM-Module
- *  Developed By Naga Sai Ganesh
- *  Team Vyakta, Acharya Nagarjuna University */
+ *  Developed By Naga Sai Ganesh */
 
 #include <String.h>
 #include <SoftwareSerial.h>

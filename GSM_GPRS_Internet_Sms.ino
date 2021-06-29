@@ -1,6 +1,5 @@
 /* Arduino Code for Water-Level Monitoring through ThingSpeak API and also Indiacted through SMS to Provided Mobile
- *  Developed By Naga Sai Ganesh, Team VYAKTA
- *  Start-Up and Innovation Cell, Acharya Nagarjuna University  */
+ *  Developed By Naga Sai Ganesh, Team Evolvers  */
 
 
 #include <String.h>
